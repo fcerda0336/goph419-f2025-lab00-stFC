@@ -6,5 +6,5 @@
 
 # \*Author:\* Fernando Cerda
 
-# An example repository setup for a simple Python package.
+# \*----An example repository setup for a simple Python package.----\*
 
