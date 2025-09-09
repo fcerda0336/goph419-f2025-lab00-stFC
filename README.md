@@ -1,2 +1,12 @@
-# goph419-f2025-lab00-stFC
-This is the first project setting up new repository for the first assignments
+# \# GOPH 419 – Computational Methods for Geophysicists
+
+# \*Semester:\* F2025
+
+# \*Instructor:\* B. Karchewski
+
+# \*Author:\* Fernando Cerda
+
+# An example repository setup for a simple Python package.
+
+
+
